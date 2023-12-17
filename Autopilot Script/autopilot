@@ -1,0 +1,27 @@
+Set-Executionpolicy unrestriced -force
+
+function Get-WindowsAutoPilotInfo {
+    $AutoPilotInfo = Get-WindowsAutoPilotInfo
+    return $AutopilotInfo
+}
+
+#Key Vault Secrets 
+$KeyVaultName = "KeyName"
+$SecretName = "SecretName"
+
+#Authentication
+
+
+
+#Define Folder for files
+$FolderName = "D:\CSV"
+New-Item -Path $FolderName -ItemType Directory -Force
+
+#Get Autopilot Info
+$AutoPilotInfo = Get-WindowsAutoPilotInfo
+$CsvPath = Join-Path -Path $FolderName -ChildPath "$($AutoPilotInfo['SerialNumber']).csv"
+$AutoPilotInfo | Export-Csv -Path $CsvPath -Force -NoTypeInformation
+
+#Confirmation Message
+Write-Host "Autopilot info saved to: $CsvPath"
+
