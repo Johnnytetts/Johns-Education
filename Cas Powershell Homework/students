@@ -1,1 +1,4 @@
 $students = @{ Subject = "Trig"; Name = "Class Clown"; ID = 101 }, @{ Subject = "Calculus"; Name = "Little Miss"; ID = 102 }, @{ Subject = "InfoSec"; Name = "Teenage Dirtbag"; ID = 103 }
+
+
+#Formatting does not match the end result in powerpoint slide but it still accomplishes all the same functions
