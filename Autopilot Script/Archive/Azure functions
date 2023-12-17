@@ -1,0 +1,18 @@
+#Get auytopilot info
+function Get-WindowsAutoPilotInfo {
+    $AutoPilotInfo = Get-WindowsAutoPilotInfo
+    return $AutoPilotInfo
+}
+
+## Key Vault Code ##
+
+#Get secrets from vault
+$KeyVaultName = "NAME HERE"
+$SecretName = "SECRET HERE"
+
+# Authentication 
+$AzureCredential = Get-Credential
+Connect-AzAccount -Credential $AzureCredential
+$SecretValue = (Get-AzKeyVaultSecret -VaultName $KeyVaultName -Name $SecretName) .SecretValueText
+$SecurePassword = ConvertTo-SecureString $SecretValue -AsPlainText -Force
+

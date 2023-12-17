@@ -1,0 +1,19 @@
+# Installs the pnp module for powershell 
+if (-not (Get-Module SharePointPnPPowerShellOnline -ErrorAction SilentlyContinue)) {
+    Install-Module -Name SharePointPnPPowerShellOnline -Force -AllowClobber
+}
+
+################################################
+
+
+#Connect to sharepoint url of csv folder
+Connect-PnPOnline -Url $SharePointUrl -UseWebLogin -Credentials (New-Object System.Management.Automation.PSCredential ($UserName, $SecurePassword))
+
+# Upload the csv to folder name
+$LibraryPath = "$LibraryName/$($AutoPilotInfo['SerialNumber']).csv"
+Add-PnPTeamsTab -DisplayName "AutoPilotInfo" -WebSiteUrl $SharePointUrl -DisplayName "AutoPilotInfo" -Type SharePointPageAndList -WebSiteUrl "$($SharePointUrl)/$LibraryName/Forms/AllItems.aspx" -SiteId (Get-PnPTeamsTeam -DisplayName 'General').GroupId
+# Message for completed upload
+Write-Host "CSV uploaded to SharePoint: $LibraryPath"
+
+# Terminate connection to sharepoint
+Disconnect-PnPOnline

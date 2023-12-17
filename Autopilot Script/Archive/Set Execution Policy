@@ -1,0 +1,20 @@
+# Run as administrator
+Set-ExecutionPolicy Unrestricted -Force
+
+# Function to get Windows Autopilot information and save to CSV document
+function Get-WindowsAutoPilotInfo {
+    $AutoPilotInfo = Get-WindowsAutoPilotInfo
+    return $AutoPilotInfo
+}
+
+# Set folder path for csv file creation on flash drive (default letter D:\)
+$FolderName = "D:\CSV Files"
+New-Item -Path $FolderName -ItemType Directory -Force
+
+# Generate Autopilot info CSV and save in the collective folder
+$AutoPilotInfo = Get-WindowsAutoPilotInfo
+$CsvPath = Join-Path -Path $FolderName -ChildPath "$($AutoPilotInfo['SerialNumber']).csv"
+$AutoPilotInfo | Export-Csv -Path $CsvPath -Force -NoTypeInformation
+
+# Confirmation text that file has been created
+Write-Host "Autopilot information saved to: $CsvPath"
