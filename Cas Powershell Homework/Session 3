@@ -8,3 +8,15 @@ foreach ($number in $randomNumbers) {
         Write-Host "$number is over 100"
     }
 }
+
+
+
+
+####Examples from google search about -gt operator for reference###
+# Compare two numbers
+#$a = 10
+#$b = 5
+
+#if ($a -gt $b) {
+#    Write-Host "A is greater than B"
+#}
