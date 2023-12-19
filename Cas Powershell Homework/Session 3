@@ -1,0 +1,5 @@
+$randomNumbers = @()
+for ($i = 0; $i -lt 10; $i++) {
+    $randomNumbers += Get-Random -Minimum 0 -Maximum 200
+}
+
