@@ -3,9 +3,8 @@ function Get-FilesByDate(){
         [Parameter(Mandatory=$true)]
         [ValidateSet('1','2','3','4','5','6','7','8','9','10','11','12')]
         [int]$month,
-        [Parameter(Mandatory=$false)]
         [ValidateRange(1,31)]
-        [int]$day = (get-date).Day,
+        [int]$day,
         [int]$year = (get-date).Year,
         [Parameter(ValueFromPipeline=$true)]
         [string[]]$path = "./"
