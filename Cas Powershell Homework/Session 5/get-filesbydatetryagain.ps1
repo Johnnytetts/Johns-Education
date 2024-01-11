@@ -10,34 +10,39 @@ function Get-FilesByDate(){
         [string[]]$path = "./"
     )
     process {
+        if ($day){
+            Write-verbose "Using the 'day' filter"
+            Get-ChildItem -Path $path -Recurse |
+            Where-Object {
+                    $_.LastWriteTime.month -eq $month -and $_.LastWriteTime.Year -eq $year -and $_.LastWriteTime.day -eq $day
+                }
+            return
+        }
+
+        Write-verbose "Using the 'month' filter"
         Get-ChildItem -Path $path -Recurse |
         Where-Object {
-            if ($day) {
-                $_.LastWriteTime.month -eq $month -and $_.LastWriteTime.Year -eq $year -and $_.LastWriteTime.day -eq $day
-            }
-            else {
                 $_.LastWriteTime.month -eq $month -and $_.LastWriteTime.year -eq $year
             }
-        }
     }
 }
 
-# Get command line arguments
-$month = $args[0]
-$year = $args[1]
-$day = $args[2]
-
-# Call the function with the provided arguments
-if ($day) {
-    $files = Get-FilesByDate -month $month -day $day -year $year
-} else {
-    $files = Get-FilesByDate -month $month -year $year
+$SPLAT = @{
+    month = 1
+    #year = 2023
+    #day = 4
+    #path = ./
+    verbose = $true
 }
+#Get-FilesByDate @SPLAT | ft mode, lastwritetime, resolvedtarget
+
+$files = Get-FilesByDate @SPLAT
 
 $fileCount = $files.Count
 
 # serialize to a xml file
-$files | Export-Clixml -Path "C:\Windows\output.xml"
+#$files | Export-Clixml -Path "C:\Users\tettejoh\OneDrive - RoomsToGo\Documents\GitHub\output.xml"
+$files | Export-Clixml -Path ".\Cas Powershell Homework\Session 5\output.xml"
 
 # output file count
 $fileCount

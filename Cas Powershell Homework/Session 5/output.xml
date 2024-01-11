@@ -1,0 +1,2114 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>System.IO.DirectoryInfo</T>
+      <T>System.IO.FileSystemInfo</T>
+      <T>System.MarshalByRefObject</T>
+      <T>System.Object</T>
+    </TN>
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</ToString>
+    <Props>
+      <S N="Name">.vscode</S>
+      <Obj N="Parent" RefId="1">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education</ToString>
+        <Props>
+          <S N="Name">Johns-Education</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0480078-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0480078Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:33:30.0463455-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:33:30.0463455Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Johns-Education</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mJohns-Education_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:33 PM</S>
+        </MS>
+      </Obj>
+      <Obj N="Root" RefId="2">
+        <TNRef RefId="0" />
+        <ToString>C:\</ToString>
+        <Props>
+          <S N="Name">C:\</S>
+          <Nil N="Parent" />
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
+          <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0254491-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0254491Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:57:00.3927087-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:57:00.3927087Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Hidden, System, Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d--hs</S>
+          <S N="ModeWithoutHardLink">d--hs</S>
+          <S N="BaseName">C:\</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:57 PM</S>
+        </MS>
+      </Obj>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</S>
+      <S N="Extension">.vscode</S>
+      <DT N="CreationTime">2024-01-11T14:00:02.3778748-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T19:00:02.3778748Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:00:02.3798777-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
+      <DT N="LastWriteTime">2024-01-11T14:00:02.3798777-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="3">
+        <TN RefId="1">
+          <T>System.IO.UnixFileMode</T>
+          <T>System.Enum</T>
+          <T>System.ValueType</T>
+          <T>System.Object</T>
+        </TN>
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="4">
+        <TN RefId="2">
+          <T>System.IO.FileAttributes</T>
+          <T>System.Enum</T>
+          <T>System.ValueType</T>
+          <T>System.Object</T>
+        </TN>
+        <ToString>Directory</ToString>
+        <I32>16</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+      <S N="PSChildName">.vscode</S>
+      <Obj N="PSDrive" RefId="5">
+        <TN RefId="3">
+          <T>System.Management.Automation.PSDriveInfo</T>
+          <T>System.Object</T>
+        </TN>
+        <ToString>C</ToString>
+        <Props>
+          <S N="CurrentLocation">Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Name">C</S>
+          <Obj N="Provider" RefId="6">
+            <TN RefId="4">
+              <T>System.Management.Automation.ProviderInfo</T>
+              <T>System.Object</T>
+            </TN>
+            <ToString>Microsoft.PowerShell.Core\FileSystem</ToString>
+            <Props>
+              <S N="ImplementingType">Microsoft.PowerShell.Commands.FileSystemProvider</S>
+              <S N="HelpFile">System.Management.Automation.dll-Help.xml</S>
+              <S N="Name">FileSystem</S>
+              <S N="PSSnapIn">Microsoft.PowerShell.Core</S>
+              <S N="ModuleName">Microsoft.PowerShell.Core</S>
+              <Nil N="Module" />
+              <S N="Description"></S>
+              <S N="Capabilities">Filter, ShouldProcess, Credentials</S>
+              <S N="Home">C:\Users\tettejoh</S>
+              <Obj N="Drives" RefId="7">
+                <TN RefId="5">
+                  <T>System.Collections.ObjectModel.Collection`1[[System.Management.Automation.PSDriveInfo, System.Management.Automation, Version=7.4.0.500, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]</T>
+                  <T>System.Object</T>
+                </TN>
+                <LST>
+                  <Ref RefId="5" />
+                  <S>Temp</S>
+                </LST>
+              </Obj>
+              <B N="VolumeSeparatedByColon">true</B>
+              <C N="ItemSeparator">92</C>
+              <C N="AltItemSeparator">47</C>
+            </Props>
+          </Obj>
+          <S N="Root">C:\</S>
+          <S N="Description">Local Disk</S>
+          <Nil N="MaximumSize" />
+          <Obj N="Credential" RefId="8">
+            <TN RefId="6">
+              <T>System.Management.Automation.PSCredential</T>
+              <T>System.Object</T>
+            </TN>
+            <ToString>System.Management.Automation.PSCredential</ToString>
+            <Props>
+              <Nil N="UserName" />
+              <Nil N="Password" />
+            </Props>
+          </Obj>
+          <Nil N="DisplayRoot" />
+          <B N="VolumeSeparatedByColon">true</B>
+        </Props>
+        <MS>
+          <I64 N="Used">76600172544</I64>
+          <I64 N="Free">434306945024</I64>
+        </MS>
+      </Obj>
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">true</B>
+      <S N="Mode">d----</S>
+      <S N="ModeWithoutHardLink">d----</S>
+      <S N="BaseName">.vscode</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[44;1m.vscode_x001B_[0m</S>
+      <S N="LengthString"></S>
+      <S N="LastWriteTimeString"> 1/11/2024  2:00 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="9">
+    <TNRef RefId="0" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</ToString>
+    <Props>
+      <S N="Name">Cas Powershell Homework</S>
+      <Obj N="Parent" RefId="10">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education</ToString>
+        <Props>
+          <S N="Name">Johns-Education</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0550093-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0550093Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:33:30.0463455-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:33:30.0463455Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Johns-Education</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mJohns-Education_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:33 PM</S>
+        </MS>
+      </Obj>
+      <Obj N="Root" RefId="11">
+        <TNRef RefId="0" />
+        <ToString>C:\</ToString>
+        <Props>
+          <S N="Name">C:\</S>
+          <Nil N="Parent" />
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
+          <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0254491-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0254491Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:57:00.3927087-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:57:00.3927087Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Hidden, System, Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d--hs</S>
+          <S N="ModeWithoutHardLink">d--hs</S>
+          <S N="BaseName">C:\</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:57 PM</S>
+        </MS>
+      </Obj>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+      <S N="Extension"></S>
+      <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
+      <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:59:51.9091193-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+      <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="12">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="13">
+        <TNRef RefId="2" />
+        <ToString>Directory</ToString>
+        <I32>16</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+      <S N="PSChildName">Cas Powershell Homework</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">true</B>
+      <S N="Mode">d----</S>
+      <S N="ModeWithoutHardLink">d----</S>
+      <S N="BaseName">Cas Powershell Homework</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[44;1mCas Powershell Homework_x001B_[0m</S>
+      <S N="LengthString"></S>
+      <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="14">
+    <TNRef RefId="0" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</ToString>
+    <Props>
+      <S N="Name">PFE</S>
+      <Obj N="Parent" RefId="15">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education</ToString>
+        <Props>
+          <S N="Name">Johns-Education</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0590233-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0590233Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:33:30.0463455-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:33:30.0463455Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Johns-Education</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mJohns-Education_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:33 PM</S>
+        </MS>
+      </Obj>
+      <Obj N="Root" RefId="16">
+        <TNRef RefId="0" />
+        <ToString>C:\</ToString>
+        <Props>
+          <S N="Name">C:\</S>
+          <Nil N="Parent" />
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
+          <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0254491-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0254491Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:57:00.3927087-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:57:00.3927087Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Hidden, System, Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d--hs</S>
+          <S N="ModeWithoutHardLink">d--hs</S>
+          <S N="BaseName">C:\</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:57 PM</S>
+        </MS>
+      </Obj>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</S>
+      <S N="Extension"></S>
+      <DT N="CreationTime">2023-12-26T10:55:43.0262466-05:00</DT>
+      <DT N="CreationTimeUtc">2023-12-26T15:55:43.0262466Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:58:47.6580904-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:58:47.6580904Z</DT>
+      <DT N="LastWriteTime">2024-01-01T18:48:39.7116171-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-01T23:48:39.7116171Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="17">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="18">
+        <TNRef RefId="2" />
+        <ToString>Directory</ToString>
+        <I32>16</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+      <S N="PSChildName">PFE</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">true</B>
+      <S N="Mode">d----</S>
+      <S N="ModeWithoutHardLink">d----</S>
+      <S N="BaseName">PFE</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[44;1mPFE_x001B_[0m</S>
+      <S N="LengthString"></S>
+      <S N="LastWriteTimeString">  1/1/2024  6:48 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="19">
+    <TN RefId="7">
+      <T>System.IO.FileInfo</T>
+      <T>System.IO.FileSystemInfo</T>
+      <T>System.MarshalByRefObject</T>
+      <T>System.Object</T>
+    </TN>
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\output.xml</ToString>
+    <Props>
+      <S N="Name">output.xml</S>
+      <I64 N="Length">95019</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+      <Obj N="Directory" RefId="20">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education</ToString>
+        <Props>
+          <S N="Name">Johns-Education</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.074143-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.074143Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:33:30.0463455-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:33:30.0463455Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Johns-Education</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mJohns-Education_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:33 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\output.xml</S>
+      <S N="Extension">.xml</S>
+      <DT N="CreationTime">2024-01-11T14:33:30.0463455-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T19:33:30.0463455Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:33:30.4645914-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:33:30.4645914Z</DT>
+      <DT N="LastWriteTime">2024-01-11T14:33:30.4645914-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T19:33:30.4645914Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="21">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="22">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\output.xml</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+      <S N="PSChildName">output.xml</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="23">
+        <TN RefId="8">
+          <T>System.Diagnostics.FileVersionInfo</T>
+          <T>System.Object</T>
+        </TN>
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\output.xml_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\output.xml</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">output</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\output.xml</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">output.xml</S>
+      <S N="LengthString">95019</S>
+      <S N="LastWriteTimeString"> 1/11/2024  2:33 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="24">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\test</ToString>
+    <Props>
+      <S N="Name">test</S>
+      <I64 N="Length">0</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+      <Obj N="Directory" RefId="25">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education</ToString>
+        <Props>
+          <S N="Name">Johns-Education</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0771594-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0771594Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:33:30.0463455-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:33:30.0463455Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Johns-Education</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mJohns-Education_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:33 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\test</S>
+      <S N="Extension"></S>
+      <DT N="CreationTime">2024-01-11T10:58:29.1556304-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T15:58:29.1556304Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:00:02.4008926-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:00:02.4008926Z</DT>
+      <DT N="LastWriteTime">2024-01-11T14:00:02.4008926-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.4008926Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="26">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="27">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\test</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+      <S N="PSChildName">test</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="28">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\test_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\test</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">test</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\test</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">test</S>
+      <S N="LengthString">0</S>
+      <S N="LastWriteTimeString"> 1/11/2024  2:00 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="29">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode\settings.json</ToString>
+    <Props>
+      <S N="Name">settings.json</S>
+      <I64 N="Length">61</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</S>
+      <Obj N="Directory" RefId="30">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</ToString>
+        <Props>
+          <S N="Name">.vscode</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</S>
+          <S N="Extension">.vscode</S>
+          <DT N="CreationTime">2024-01-11T14:00:02.3778748-05:00</DT>
+          <DT N="CreationTimeUtc">2024-01-11T19:00:02.3778748Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0429978-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0429978Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:00:02.3798777-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">.vscode</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1m.vscode_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:00 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode\settings.json</S>
+      <S N="Extension">.json</S>
+      <DT N="CreationTime">2024-01-11T14:00:02.3798777-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:00:02.3798777-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
+      <DT N="LastWriteTime">2024-01-11T14:00:02.3798777-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="31">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="32">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode\settings.json</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode</S>
+      <S N="PSChildName">settings.json</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="33">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode\settings.json_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode\settings.json</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">settings</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\.vscode\settings.json</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">settings.json</S>
+      <S N="LengthString">61</S>
+      <S N="LastWriteTimeString"> 1/11/2024  2:00 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="34">
+    <TNRef RefId="0" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</ToString>
+    <Props>
+      <S N="Name">Session 4</S>
+      <Obj N="Parent" RefId="35">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</ToString>
+        <Props>
+          <S N="Name">Cas Powershell Homework</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.044996-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.044996Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Cas Powershell Homework</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mCas Powershell Homework_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+        </MS>
+      </Obj>
+      <Obj N="Root" RefId="36">
+        <TNRef RefId="0" />
+        <ToString>C:\</ToString>
+        <Props>
+          <S N="Name">C:\</S>
+          <Nil N="Parent" />
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
+          <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0254491-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0254491Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:57:00.3927087-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:57:00.3927087Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Hidden, System, Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d--hs</S>
+          <S N="ModeWithoutHardLink">d--hs</S>
+          <S N="BaseName">C:\</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:57 PM</S>
+        </MS>
+      </Obj>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</S>
+      <S N="Extension"></S>
+      <DT N="CreationTime">2024-01-02T14:14:12.373753-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-02T19:14:12.373753Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:58:47.6636532-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:58:47.6636532Z</DT>
+      <DT N="LastWriteTime">2024-01-02T14:14:27.1169099-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-02T19:14:27.1169099Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="37">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="38">
+        <TNRef RefId="2" />
+        <ToString>Directory</ToString>
+        <I32>16</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+      <S N="PSChildName">Session 4</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">true</B>
+      <S N="Mode">d----</S>
+      <S N="ModeWithoutHardLink">d----</S>
+      <S N="BaseName">Session 4</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[44;1mSession 4_x001B_[0m</S>
+      <S N="LengthString"></S>
+      <S N="LastWriteTimeString">  1/2/2024  2:14 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="39">
+    <TNRef RefId="0" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</ToString>
+    <Props>
+      <S N="Name">Session 5</S>
+      <Obj N="Parent" RefId="40">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</ToString>
+        <Props>
+          <S N="Name">Cas Powershell Homework</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0918804-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0918804Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Cas Powershell Homework</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mCas Powershell Homework_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+        </MS>
+      </Obj>
+      <Obj N="Root" RefId="41">
+        <TNRef RefId="0" />
+        <ToString>C:\</ToString>
+        <Props>
+          <S N="Name">C:\</S>
+          <Nil N="Parent" />
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
+          <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0254491-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0254491Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:57:00.3927087-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:57:00.3927087Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Hidden, System, Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d--hs</S>
+          <S N="ModeWithoutHardLink">d--hs</S>
+          <S N="BaseName">C:\</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:57 PM</S>
+        </MS>
+      </Obj>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <S N="Extension"></S>
+      <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:00:02.3988954-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:00:02.3988954Z</DT>
+      <DT N="LastWriteTime">2024-01-11T14:00:02.3988954-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3988954Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="42">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="43">
+        <TNRef RefId="2" />
+        <ToString>Directory</ToString>
+        <I32>16</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+      <S N="PSChildName">Session 5</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">true</B>
+      <S N="Mode">d----</S>
+      <S N="ModeWithoutHardLink">d----</S>
+      <S N="BaseName">Session 5</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[44;1mSession 5_x001B_[0m</S>
+      <S N="LengthString"></S>
+      <S N="LastWriteTimeString"> 1/11/2024  2:00 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="44">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 3 Homework.zip</ToString>
+    <Props>
+      <S N="Name">Session 3 Homework.zip</S>
+      <I64 N="Length">56211</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+      <Obj N="Directory" RefId="45">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</ToString>
+        <Props>
+          <S N="Name">Cas Powershell Homework</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0948934-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0948934Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Cas Powershell Homework</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mCas Powershell Homework_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 3 Homework.zip</S>
+      <S N="Extension">.zip</S>
+      <DT N="CreationTime">2023-12-26T10:55:43.0155069-05:00</DT>
+      <DT N="CreationTimeUtc">2023-12-26T15:55:43.0155069Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:59:51.9091193-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+      <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="46">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="47">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 3 Homework.zip</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+      <S N="PSChildName">Session 3 Homework.zip</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="48">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 3 Homework.zip_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 3 Homework.zip</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">Session 3 Homework</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 3 Homework.zip</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[31;1mSession 3 Homework.zip_x001B_[0m</S>
+      <S N="LengthString">56211</S>
+      <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="49">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4\get-filesbydate.ps1</ToString>
+    <Props>
+      <S N="Name">get-filesbydate.ps1</S>
+      <I64 N="Length">822</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</S>
+      <Obj N="Directory" RefId="50">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</ToString>
+        <Props>
+          <S N="Name">Session 4</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2024-01-02T14:14:12.373753-05:00</DT>
+          <DT N="CreationTimeUtc">2024-01-02T19:14:12.373753Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.044996-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.044996Z</DT>
+          <DT N="LastWriteTime">2024-01-02T14:14:27.1169099-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-02T19:14:27.1169099Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Session 4</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mSession 4_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString">  1/2/2024  2:14 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4\get-filesbydate.ps1</S>
+      <S N="Extension">.ps1</S>
+      <DT N="CreationTime">2024-01-02T14:14:27.1169099-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-02T19:14:27.1169099Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:58:59.6107428-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:58:59.6107428Z</DT>
+      <DT N="LastWriteTime">2024-01-04T14:16:01.3416387-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-04T19:16:01.3416387Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="51">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="52">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4\get-filesbydate.ps1</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4</S>
+      <S N="PSChildName">get-filesbydate.ps1</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="53">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4\get-filesbydate.ps1_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4\get-filesbydate.ps1</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">get-filesbydate</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 4\get-filesbydate.ps1</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[33;1mget-filesbydate.ps1_x001B_[0m</S>
+      <S N="LengthString">822</S>
+      <S N="LastWriteTimeString">  1/4/2024  2:16 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="54">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydate5.ps1</ToString>
+    <Props>
+      <S N="Name">get-filesbydate5.ps1</S>
+      <I64 N="Length">1244</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <Obj N="Directory" RefId="55">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</ToString>
+        <Props>
+          <S N="Name">Session 5</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0489981-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0489981Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:34:59.0489981-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:34:59.0489981Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Session 5</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mSession 5_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:34 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydate5.ps1</S>
+      <S N="Extension">.ps1</S>
+      <DT N="CreationTime">2024-01-11T13:59:51.948836-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T18:59:51.948836Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:59:52.5679368-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:59:52.5679368Z</DT>
+      <DT N="LastWriteTime">2024-01-11T13:59:51.948836-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.948836Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="56">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="57">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydate5.ps1</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <S N="PSChildName">get-filesbydate5.ps1</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="58">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydate5.ps1_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydate5.ps1</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">get-filesbydate5</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydate5.ps1</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[33;1mget-filesbydate5.ps1_x001B_[0m</S>
+      <S N="LengthString">1244</S>
+      <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="59">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydatetryagain.ps1</ToString>
+    <Props>
+      <S N="Name">get-filesbydatetryagain.ps1</S>
+      <I64 N="Length">1401</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <Obj N="Directory" RefId="60">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</ToString>
+        <Props>
+          <S N="Name">Session 5</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.1168923-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.1168923Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:34:59.0489981-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:34:59.0489981Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Session 5</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mSession 5_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:34 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydatetryagain.ps1</S>
+      <S N="Extension">.ps1</S>
+      <DT N="CreationTime">2024-01-11T13:59:51.9498288-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T18:59:51.9498288Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:34:58.4906041-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:34:58.4906041Z</DT>
+      <DT N="LastWriteTime">2024-01-11T14:34:58.4906041-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T19:34:58.4906041Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="61">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="62">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydatetryagain.ps1</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <S N="PSChildName">get-filesbydatetryagain.ps1</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="63">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydatetryagain.ps1_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydatetryagain.ps1</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">get-filesbydatetryagain</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydatetryagain.ps1</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[33;1mget-filesbydatetryagain.ps1_x001B_[0m</S>
+      <S N="LengthString">1401</S>
+      <S N="LastWriteTimeString"> 1/11/2024  2:34 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="64">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\scoping.ps1</ToString>
+    <Props>
+      <S N="Name">scoping.ps1</S>
+      <I64 N="Length">655</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <Obj N="Directory" RefId="65">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</ToString>
+        <Props>
+          <S N="Name">Session 5</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.1214112-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.1214112Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:34:59.0489981-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:34:59.0489981Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Session 5</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mSession 5_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:34 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\scoping.ps1</S>
+      <S N="Extension">.ps1</S>
+      <DT N="CreationTime">2024-01-11T13:59:51.9702152-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T18:59:51.9702152Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:00:32.7844744-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:00:32.7844744Z</DT>
+      <DT N="LastWriteTime">2024-01-11T14:00:02.3998926-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3998926Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="66">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="67">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\scoping.ps1</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <S N="PSChildName">scoping.ps1</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="68">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\scoping.ps1_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\scoping.ps1</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">scoping</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\scoping.ps1</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[33;1mscoping.ps1_x001B_[0m</S>
+      <S N="LengthString">655</S>
+      <S N="LastWriteTimeString"> 1/11/2024  2:00 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="69">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\serialize.ps1</ToString>
+    <Props>
+      <S N="Name">serialize.ps1</S>
+      <I64 N="Length">705</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <Obj N="Directory" RefId="70">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</ToString>
+        <Props>
+          <S N="Name">Session 5</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.1314311-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.1314311Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:34:59.0489981-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:34:59.0489981Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Session 5</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mSession 5_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:34 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\serialize.ps1</S>
+      <S N="Extension">.ps1</S>
+      <DT N="CreationTime">2024-01-11T13:59:51.9887192-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T18:59:51.9887192Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:59:52.6339061-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:59:52.6339061Z</DT>
+      <DT N="LastWriteTime">2024-01-11T13:59:51.9897032-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9897032Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="71">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="72">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\serialize.ps1</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <S N="PSChildName">serialize.ps1</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="73">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\serialize.ps1_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\serialize.ps1</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">serialize</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\serialize.ps1</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[33;1mserialize.ps1_x001B_[0m</S>
+      <S N="LengthString">705</S>
+      <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="74">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\Session 5.pptx</ToString>
+    <Props>
+      <S N="Name">Session 5.pptx</S>
+      <I64 N="Length">74752</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <Obj N="Directory" RefId="75">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</ToString>
+        <Props>
+          <S N="Name">Session 5</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
+          <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.1329437-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.1329437Z</DT>
+          <DT N="LastWriteTime">2024-01-11T14:34:59.0489981-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T19:34:59.0489981Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Session 5</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mSession 5_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  2:34 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\Session 5.pptx</S>
+      <S N="Extension">.pptx</S>
+      <DT N="CreationTime">2024-01-11T13:59:51.9307343-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T18:59:51.9307343Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:59:51.9307343-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:59:51.9307343Z</DT>
+      <DT N="LastWriteTime">2024-01-11T13:59:51.9307343-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9307343Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="76">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="77">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\Session 5.pptx</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
+      <S N="PSChildName">Session 5.pptx</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="78">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\Session 5.pptx_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\Session 5.pptx</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">Session 5</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\Session 5.pptx</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">Session 5.pptx</S>
+      <S N="LengthString">74752</S>
+      <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="79">
+    <TNRef RefId="0" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</ToString>
+    <Props>
+      <S N="Name">Python</S>
+      <Obj N="Parent" RefId="80">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code</ToString>
+        <Props>
+          <S N="Name">FCC Code</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:58:08.4711604-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:58:08.4711604Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0470066-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0470066Z</DT>
+          <DT N="LastWriteTime">2023-12-26T11:53:10.8560069-05:00</DT>
+          <DT N="LastWriteTimeUtc">2023-12-26T16:53:10.8560069Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">FCC Code</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mFCC Code_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString">12/26/2023 11:53 AM</S>
+        </MS>
+      </Obj>
+      <Obj N="Root" RefId="81">
+        <TNRef RefId="0" />
+        <ToString>C:\</ToString>
+        <Props>
+          <S N="Name">C:\</S>
+          <Nil N="Parent" />
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
+          <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0254491-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0254491Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:57:00.3927087-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:57:00.3927087Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Hidden, System, Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d--hs</S>
+          <S N="ModeWithoutHardLink">d--hs</S>
+          <S N="BaseName">C:\</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:57 PM</S>
+        </MS>
+      </Obj>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</S>
+      <S N="Extension"></S>
+      <DT N="CreationTime">2023-12-26T11:53:06.1177743-05:00</DT>
+      <DT N="CreationTimeUtc">2023-12-26T16:53:06.1177743Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:59:52.0029424-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
+      <DT N="LastWriteTime">2024-01-11T13:59:52.0029424-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="82">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="83">
+        <TNRef RefId="2" />
+        <ToString>Directory</ToString>
+        <I32>16</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code</S>
+      <S N="PSChildName">Python</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">true</B>
+      <S N="Mode">d----</S>
+      <S N="ModeWithoutHardLink">d----</S>
+      <S N="BaseName">Python</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">_x001B_[44;1mPython_x001B_[0m</S>
+      <S N="LengthString"></S>
+      <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="84">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python\Cipher</ToString>
+    <Props>
+      <S N="Name">Cipher</S>
+      <I64 N="Length">153</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</S>
+      <Obj N="Directory" RefId="85">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</ToString>
+        <Props>
+          <S N="Name">Python</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T11:53:06.1177743-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T16:53:06.1177743Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0470066-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0470066Z</DT>
+          <DT N="LastWriteTime">2024-01-11T13:59:52.0029424-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">Python</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mPython_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python\Cipher</S>
+      <S N="Extension"></S>
+      <DT N="CreationTime">2024-01-11T13:59:52.0029424-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
+      <DT N="LastAccessTime">2024-01-11T13:59:52.0029424-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
+      <DT N="LastWriteTime">2024-01-11T13:59:52.0029424-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="86">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="87">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python\Cipher</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python</S>
+      <S N="PSChildName">Cipher</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="88">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python\Cipher_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python\Cipher</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">Cipher</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\FCC Code\Python\Cipher</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">Cipher</S>
+      <S N="LengthString">153</S>
+      <S N="LastWriteTimeString"> 1/11/2024  1:59 PM</S>
+    </MS>
+  </Obj>
+  <Obj RefId="89">
+    <TNRef RefId="7" />
+    <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE\smallest = None.py</ToString>
+    <Props>
+      <S N="Name">smallest = None.py</S>
+      <I64 N="Length">243</I64>
+      <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</S>
+      <Obj N="Directory" RefId="90">
+        <TNRef RefId="0" />
+        <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</ToString>
+        <Props>
+          <S N="Name">PFE</S>
+          <S N="Parent">C:\Users\tettejoh\Documents\GitHub\Johns-Education</S>
+          <S N="Root">C:\</S>
+          <B N="Exists">true</B>
+          <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</S>
+          <S N="Extension"></S>
+          <DT N="CreationTime">2023-12-26T10:55:43.0262466-05:00</DT>
+          <DT N="CreationTimeUtc">2023-12-26T15:55:43.0262466Z</DT>
+          <DT N="LastAccessTime">2024-01-11T14:34:59.0480078-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-11T19:34:59.0480078Z</DT>
+          <DT N="LastWriteTime">2024-01-01T18:48:39.7116171-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-01T23:48:39.7116171Z</DT>
+          <Nil N="LinkTarget" />
+          <S N="UnixFileMode">-1</S>
+          <S N="Attributes">Directory</S>
+        </Props>
+        <MS>
+          <S N="Mode">d----</S>
+          <S N="ModeWithoutHardLink">d----</S>
+          <S N="BaseName">PFE</S>
+          <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</S>
+          <Nil N="Target" />
+          <Nil N="LinkType" />
+          <S N="NameString">_x001B_[44;1mPFE_x001B_[0m</S>
+          <S N="LengthString"></S>
+          <S N="LastWriteTimeString">  1/1/2024  6:48 PM</S>
+        </MS>
+      </Obj>
+      <B N="IsReadOnly">false</B>
+      <B N="Exists">true</B>
+      <S N="FullName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE\smallest = None.py</S>
+      <S N="Extension">.py</S>
+      <DT N="CreationTime">2024-01-01T18:48:39.5544524-05:00</DT>
+      <DT N="CreationTimeUtc">2024-01-01T23:48:39.5544524Z</DT>
+      <DT N="LastAccessTime">2024-01-11T14:33:30.4605846-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-11T19:33:30.4605846Z</DT>
+      <DT N="LastWriteTime">2024-01-01T18:48:39.7338989-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-01T23:48:39.7338989Z</DT>
+      <Nil N="LinkTarget" />
+      <Obj N="UnixFileMode" RefId="91">
+        <TNRef RefId="1" />
+        <ToString>-1</ToString>
+        <I32>-1</I32>
+      </Obj>
+      <Obj N="Attributes" RefId="92">
+        <TNRef RefId="2" />
+        <ToString>Archive</ToString>
+        <I32>32</I32>
+      </Obj>
+    </Props>
+    <MS>
+      <S N="PSPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE\smallest = None.py</S>
+      <S N="PSParentPath">Microsoft.PowerShell.Core\FileSystem::C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE</S>
+      <S N="PSChildName">smallest = None.py</S>
+      <Ref N="PSDrive" RefId="5" />
+      <Ref N="PSProvider" RefId="6" />
+      <B N="PSIsContainer">false</B>
+      <S N="Mode">-a---</S>
+      <S N="ModeWithoutHardLink">-a---</S>
+      <Obj N="VersionInfo" RefId="93">
+        <TNRef RefId="8" />
+        <ToString>File:             C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE\smallest = None.py_x000D__x000A_InternalName:     _x000D__x000A_OriginalFilename: _x000D__x000A_FileVersion:      _x000D__x000A_FileDescription:  _x000D__x000A_Product:          _x000D__x000A_ProductVersion:   _x000D__x000A_Debug:            False_x000D__x000A_Patched:          False_x000D__x000A_PreRelease:       False_x000D__x000A_PrivateBuild:     False_x000D__x000A_SpecialBuild:     False_x000D__x000A_Language:         _x000D__x000A_</ToString>
+        <Props>
+          <Nil N="Comments" />
+          <Nil N="CompanyName" />
+          <I32 N="FileBuildPart">0</I32>
+          <Nil N="FileDescription" />
+          <I32 N="FileMajorPart">0</I32>
+          <I32 N="FileMinorPart">0</I32>
+          <S N="FileName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE\smallest = None.py</S>
+          <I32 N="FilePrivatePart">0</I32>
+          <Nil N="FileVersion" />
+          <Nil N="InternalName" />
+          <B N="IsDebug">false</B>
+          <B N="IsPatched">false</B>
+          <B N="IsPrivateBuild">false</B>
+          <B N="IsPreRelease">false</B>
+          <B N="IsSpecialBuild">false</B>
+          <Nil N="Language" />
+          <Nil N="LegalCopyright" />
+          <Nil N="LegalTrademarks" />
+          <Nil N="OriginalFilename" />
+          <Nil N="PrivateBuild" />
+          <I32 N="ProductBuildPart">0</I32>
+          <I32 N="ProductMajorPart">0</I32>
+          <I32 N="ProductMinorPart">0</I32>
+          <Nil N="ProductName" />
+          <I32 N="ProductPrivatePart">0</I32>
+          <Nil N="ProductVersion" />
+          <Nil N="SpecialBuild" />
+        </Props>
+        <MS>
+          <Version N="FileVersionRaw">0.0.0.0</Version>
+          <Version N="ProductVersionRaw">0.0.0.0</Version>
+        </MS>
+      </Obj>
+      <S N="BaseName">smallest = None</S>
+      <S N="ResolvedTarget">C:\Users\tettejoh\Documents\GitHub\Johns-Education\PFE\smallest = None.py</S>
+      <Nil N="Target" />
+      <Nil N="LinkType" />
+      <S N="NameString">smallest = None.py</S>
+      <S N="LengthString">243</S>
+      <S N="LastWriteTimeString">  1/1/2024  6:48 PM</S>
+    </MS>
+  </Obj>
+</Objs>
