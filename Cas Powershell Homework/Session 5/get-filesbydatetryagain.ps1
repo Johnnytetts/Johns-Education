@@ -46,3 +46,12 @@ $files | Export-Clixml -Path ".\Cas Powershell Homework\Session 5\output.xml"
 
 # output file count
 $fileCount
+
+#Read file into Object
+#$files = Get-Content ".\Cas Powershell Homework\Session 5\FileCSV.csv"
+
+#Import to a csv
+#$files = Import-Csv ".\Cas Powershell Homework\Session 5\FileCSV.csv"
+
+#Output to a csv
+$files | Select-Object PSPath, BaseName, Extension | Export-Csv -NoTypeInformation -Path ".\Cas Powershell Homework\Session 5\FileCSV.csv" 
