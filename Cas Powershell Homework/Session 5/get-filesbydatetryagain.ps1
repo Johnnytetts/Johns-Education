@@ -38,7 +38,7 @@ $SPLAT = @{
 
 $files = Get-FilesByDate @SPLAT
 
-$fileCount = $files.Count
+$fileCount = $files.count
 
 # serialize to a xml file
 #$files | Export-Clixml -Path "C:\Users\tettejoh\OneDrive - RoomsToGo\Documents\GitHub\output.xml"
