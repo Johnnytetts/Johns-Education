@@ -1,3 +1,18 @@
+<# 
+.DESCRIPTION 
+This is an example function written alongside powershell trainings taught by Cas Mollien. The code itself is a function to find the number of files in a given path, allowing users to also add criteria such as year, month, and day. The output then counts and shows said files and exports them into a CSV format for readability.
+#>
+
+<# 
+.NOTES 
+No dependencies required, created on Powershell 7. 
+#>
+
+<# 
+.EXAMPLE 
+An example for using this command looks like as follows: Get-FilesByDat -Path ".\" -Year "2023" -Month "3" (The day argument is optional)
+#>
+
 function Get-FilesByDate(){
     Param(
         [Parameter(Mandatory=$true)]

@@ -21,8 +21,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.614483-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.614483Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9434644-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9434644Z</DT>
           <DT N="LastWriteTime">2024-01-18T09:27:53.5721016-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
           <Nil N="LinkTarget" />
@@ -53,10 +53,10 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
           <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6029338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6029338Z</DT>
-          <DT N="LastWriteTime">2024-01-18T13:50:48.9104067-05:00</DT>
-          <DT N="LastWriteTimeUtc">2024-01-18T18:50:48.9104067Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9336376-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9336376Z</DT>
+          <DT N="LastWriteTime">2024-01-23T09:49:08.9107847-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-23T14:49:08.9107847Z</DT>
           <Nil N="LinkTarget" />
           <S N="UnixFileMode">-1</S>
           <S N="Attributes">Hidden, System, Directory</S>
@@ -68,7 +68,7 @@
           <Nil N="Target" />
           <Nil N="LinkType" />
           <S N="LengthString"></S>
-          <S N="LastWriteTimeString"> 1/18/2024  1:50 PM</S>
+          <S N="LastWriteTimeString"> 1/23/2024  9:49 AM</S>
         </MS>
       </Obj>
       <B N="Exists">true</B>
@@ -76,8 +76,8 @@
       <S N="Extension">.vscode</S>
       <DT N="CreationTime">2024-01-11T14:00:02.3778748-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T19:00:02.3778748Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:07:30.9708471-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:07:30.9708471Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:50:57.5674716-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:50:57.5674716Z</DT>
       <DT N="LastWriteTime">2024-01-11T14:00:02.3798777-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
       <Nil N="LinkTarget" />
@@ -133,7 +133,7 @@
               <S N="Home">C:\Users\tettejoh</S>
               <Obj N="Drives" RefId="7">
                 <TN RefId="5">
-                  <T>System.Collections.ObjectModel.Collection`1[[System.Management.Automation.PSDriveInfo, System.Management.Automation, Version=7.4.0.500, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]</T>
+                  <T>System.Collections.ObjectModel.Collection`1[[System.Management.Automation.PSDriveInfo, System.Management.Automation, Version=7.4.1.500, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]</T>
                   <T>System.Object</T>
                 </TN>
                 <LST>
@@ -164,8 +164,8 @@
           <B N="VolumeSeparatedByColon">true</B>
         </Props>
         <MS>
-          <I64 N="Used">80389689344</I64>
-          <I64 N="Free">430517428224</I64>
+          <I64 N="Used">80978010112</I64>
+          <I64 N="Free">429929107456</I64>
         </MS>
       </Obj>
       <Ref N="PSProvider" RefId="6" />
@@ -198,8 +198,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6214893-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6214893Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9506888-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9506888Z</DT>
           <DT N="LastWriteTime">2024-01-18T09:27:53.5721016-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
           <Nil N="LinkTarget" />
@@ -230,10 +230,10 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
           <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6029338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6029338Z</DT>
-          <DT N="LastWriteTime">2024-01-18T13:50:48.9104067-05:00</DT>
-          <DT N="LastWriteTimeUtc">2024-01-18T18:50:48.9104067Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9336376-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9336376Z</DT>
+          <DT N="LastWriteTime">2024-01-23T09:49:08.9107847-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-23T14:49:08.9107847Z</DT>
           <Nil N="LinkTarget" />
           <S N="UnixFileMode">-1</S>
           <S N="Attributes">Hidden, System, Directory</S>
@@ -245,7 +245,7 @@
           <Nil N="Target" />
           <Nil N="LinkType" />
           <S N="LengthString"></S>
-          <S N="LastWriteTimeString"> 1/18/2024  1:50 PM</S>
+          <S N="LastWriteTimeString"> 1/23/2024  9:49 AM</S>
         </MS>
       </Obj>
       <B N="Exists">true</B>
@@ -253,8 +253,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
       <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:07:30.9738312-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:07:30.9738312Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:50:57.5694648-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:50:57.5694648Z</DT>
       <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
       <Nil N="LinkTarget" />
@@ -304,8 +304,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6270928-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6270928Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9539754-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9539754Z</DT>
           <DT N="LastWriteTime">2024-01-18T09:27:53.5721016-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
           <Nil N="LinkTarget" />
@@ -336,10 +336,10 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
           <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6029338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6029338Z</DT>
-          <DT N="LastWriteTime">2024-01-18T13:50:48.9104067-05:00</DT>
-          <DT N="LastWriteTimeUtc">2024-01-18T18:50:48.9104067Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9336376-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9336376Z</DT>
+          <DT N="LastWriteTime">2024-01-23T09:49:08.9107847-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-23T14:49:08.9107847Z</DT>
           <Nil N="LinkTarget" />
           <S N="UnixFileMode">-1</S>
           <S N="Attributes">Hidden, System, Directory</S>
@@ -351,7 +351,7 @@
           <Nil N="Target" />
           <Nil N="LinkType" />
           <S N="LengthString"></S>
-          <S N="LastWriteTimeString"> 1/18/2024  1:50 PM</S>
+          <S N="LastWriteTimeString"> 1/23/2024  9:49 AM</S>
         </MS>
       </Obj>
       <B N="Exists">true</B>
@@ -359,8 +359,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2023-12-26T10:55:43.0262466-05:00</DT>
       <DT N="CreationTimeUtc">2023-12-26T15:55:43.0262466Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:07:30.9851955-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:07:30.9851955Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:50:57.5717305-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:50:57.5717305Z</DT>
       <DT N="LastWriteTime">2024-01-01T18:48:39.7116171-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-01T23:48:39.7116171Z</DT>
       <Nil N="LinkTarget" />
@@ -410,8 +410,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6310888-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6310888Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.955976-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.955976Z</DT>
           <DT N="LastWriteTime">2024-01-18T09:27:53.5721016-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
           <Nil N="LinkTarget" />
@@ -442,10 +442,10 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
           <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6029338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6029338Z</DT>
-          <DT N="LastWriteTime">2024-01-18T13:50:48.9104067-05:00</DT>
-          <DT N="LastWriteTimeUtc">2024-01-18T18:50:48.9104067Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9336376-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9336376Z</DT>
+          <DT N="LastWriteTime">2024-01-23T09:49:08.9107847-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-23T14:49:08.9107847Z</DT>
           <Nil N="LinkTarget" />
           <S N="UnixFileMode">-1</S>
           <S N="Attributes">Hidden, System, Directory</S>
@@ -457,7 +457,7 @@
           <Nil N="Target" />
           <Nil N="LinkType" />
           <S N="LengthString"></S>
-          <S N="LastWriteTimeString"> 1/18/2024  1:50 PM</S>
+          <S N="LastWriteTimeString"> 1/23/2024  9:49 AM</S>
         </MS>
       </Obj>
       <B N="Exists">true</B>
@@ -465,8 +465,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2024-01-18T09:27:53.5721016-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:07:30.986205-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:07:30.986205Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:50:57.5717305-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:50:57.5717305Z</DT>
       <DT N="LastWriteTime">2024-01-18T10:01:48.1486011-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-18T15:01:48.1486011Z</DT>
       <Nil N="LinkTarget" />
@@ -523,8 +523,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:40.3226605-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:40.3226605Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6356231-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6356231Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9589754-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9589754Z</DT>
           <DT N="LastWriteTime">2024-01-18T09:27:53.5721016-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
           <Nil N="LinkTarget" />
@@ -549,8 +549,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2024-01-11T10:58:29.1556304-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T15:58:29.1556304Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:44.0155239-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:44.0155239Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:56:12.7720889-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:56:12.7720889Z</DT>
       <DT N="LastWriteTime">2024-01-11T14:00:02.4008926-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.4008926Z</DT>
       <Nil N="LinkTarget" />
@@ -642,8 +642,8 @@
           <S N="Extension">.vscode</S>
           <DT N="CreationTime">2024-01-11T14:00:02.3778748-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T19:00:02.3778748Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6079738-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6079738Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9376392-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9376392Z</DT>
           <DT N="LastWriteTime">2024-01-11T14:00:02.3798777-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
           <Nil N="LinkTarget" />
@@ -668,8 +668,8 @@
       <S N="Extension">.json</S>
       <DT N="CreationTime">2024-01-11T14:00:02.3798777-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:08:03.7356147-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:08:03.7356147Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:51:07.2992525-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:51:07.2992525Z</DT>
       <DT N="LastWriteTime">2024-01-11T14:00:02.3798777-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3798777Z</DT>
       <Nil N="LinkTarget" />
@@ -756,8 +756,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6099512-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6099512Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9401484-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9401484Z</DT>
           <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
           <Nil N="LinkTarget" />
@@ -788,10 +788,10 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
           <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6029338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6029338Z</DT>
-          <DT N="LastWriteTime">2024-01-18T13:50:48.9104067-05:00</DT>
-          <DT N="LastWriteTimeUtc">2024-01-18T18:50:48.9104067Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9336376-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9336376Z</DT>
+          <DT N="LastWriteTime">2024-01-23T09:49:08.9107847-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-23T14:49:08.9107847Z</DT>
           <Nil N="LinkTarget" />
           <S N="UnixFileMode">-1</S>
           <S N="Attributes">Hidden, System, Directory</S>
@@ -803,7 +803,7 @@
           <Nil N="Target" />
           <Nil N="LinkType" />
           <S N="LengthString"></S>
-          <S N="LastWriteTimeString"> 1/18/2024  1:50 PM</S>
+          <S N="LastWriteTimeString"> 1/23/2024  9:49 AM</S>
         </MS>
       </Obj>
       <B N="Exists">true</B>
@@ -811,8 +811,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2024-01-02T14:14:12.373753-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-02T19:14:12.373753Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:07:30.9768408-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:07:30.9768408Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:50:57.5694648-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:50:57.5694648Z</DT>
       <DT N="LastWriteTime">2024-01-02T14:14:27.1169099-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-02T19:14:27.1169099Z</DT>
       <Nil N="LinkTarget" />
@@ -862,8 +862,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6638126-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6638126Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9720464-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9720464Z</DT>
           <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
           <Nil N="LinkTarget" />
@@ -894,10 +894,10 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
           <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6029338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6029338Z</DT>
-          <DT N="LastWriteTime">2024-01-18T13:50:48.9104067-05:00</DT>
-          <DT N="LastWriteTimeUtc">2024-01-18T18:50:48.9104067Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9336376-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9336376Z</DT>
+          <DT N="LastWriteTime">2024-01-23T09:49:08.9107847-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-23T14:49:08.9107847Z</DT>
           <Nil N="LinkTarget" />
           <S N="UnixFileMode">-1</S>
           <S N="Attributes">Hidden, System, Directory</S>
@@ -909,7 +909,7 @@
           <Nil N="Target" />
           <Nil N="LinkType" />
           <S N="LengthString"></S>
-          <S N="LastWriteTimeString"> 1/18/2024  1:50 PM</S>
+          <S N="LastWriteTimeString"> 1/23/2024  9:49 AM</S>
         </MS>
       </Obj>
       <B N="Exists">true</B>
@@ -917,8 +917,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:07:13.1511007-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:07:13.1511007Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:50:57.5707192-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:50:57.5707192Z</DT>
       <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
       <Nil N="LinkTarget" />
@@ -970,8 +970,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:43.0144888-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:43.0144888Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6688244-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6688244Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9730546-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9730546Z</DT>
           <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
           <Nil N="LinkTarget" />
@@ -996,8 +996,8 @@
       <S N="Extension">.zip</S>
       <DT N="CreationTime">2023-12-26T10:55:43.0155069-05:00</DT>
       <DT N="CreationTimeUtc">2023-12-26T15:55:43.0155069Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:44.2352198-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:44.2352198Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:56:12.9585205-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:56:12.9585205Z</DT>
       <DT N="LastWriteTime">2024-01-11T13:59:51.9091193-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
       <Nil N="LinkTarget" />
@@ -1086,8 +1086,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-02T14:14:12.373753-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-02T19:14:12.373753Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6099512-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6099512Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9401484-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9401484Z</DT>
           <DT N="LastWriteTime">2024-01-02T14:14:27.1169099-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-02T19:14:27.1169099Z</DT>
           <Nil N="LinkTarget" />
@@ -1112,8 +1112,8 @@
       <S N="Extension">.ps1</S>
       <DT N="CreationTime">2024-01-02T14:14:27.1169099-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-02T19:14:27.1169099Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:08:22.6065843-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:08:22.6065843Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:51:26.9021231-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:51:26.9021231Z</DT>
       <DT N="LastWriteTime">2024-01-04T14:16:01.3416387-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-04T19:16:01.3416387Z</DT>
       <Nil N="LinkTarget" />
@@ -1202,8 +1202,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6164914-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6164914Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.944462-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.944462Z</DT>
           <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
           <Nil N="LinkTarget" />
@@ -1228,10 +1228,10 @@
       <S N="Extension">.csv</S>
       <DT N="CreationTime">2024-01-17T11:03:04.3428443-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:44.5691567-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:44.5691567Z</DT>
-      <DT N="LastWriteTime">2024-01-18T14:16:44.5691567-05:00</DT>
-      <DT N="LastWriteTimeUtc">2024-01-18T19:16:44.5691567Z</DT>
+      <DT N="LastAccessTime">2024-01-23T10:03:53.6882313-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T15:03:53.6882313Z</DT>
+      <DT N="LastWriteTime">2024-01-23T10:03:53.6882313-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-23T15:03:53.6882313Z</DT>
       <Nil N="LinkTarget" />
       <Obj N="UnixFileMode" RefId="56">
         <TNRef RefId="1" />
@@ -1296,7 +1296,7 @@
       <Nil N="LinkType" />
       <S N="NameString">FileCSV.csv</S>
       <S N="LengthString">3219</S>
-      <S N="LastWriteTimeString"> 1/18/2024  2:16 PM</S>
+      <S N="LastWriteTimeString"> 1/23/2024 10:03 AM</S>
     </MS>
   </Obj>
   <Obj RefId="59">
@@ -1318,8 +1318,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.7016338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.7016338Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9986538-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9986538Z</DT>
           <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
           <Nil N="LinkTarget" />
@@ -1344,8 +1344,8 @@
       <S N="Extension">.ps1</S>
       <DT N="CreationTime">2024-01-11T13:59:51.948836-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T18:59:51.948836Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:08:22.6474763-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:08:22.6474763Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:51:26.9357242-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:51:26.9357242Z</DT>
       <DT N="LastWriteTime">2024-01-11T13:59:51.948836-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.948836Z</DT>
       <Nil N="LinkTarget" />
@@ -1420,7 +1420,7 @@
     <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\get-filesbydatetryagain.ps1</ToString>
     <Props>
       <S N="Name">get-filesbydatetryagain.ps1</S>
-      <I64 N="Length">1753</I64>
+      <I64 N="Length">2341</I64>
       <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
       <Obj N="Directory" RefId="65">
         <TNRef RefId="0" />
@@ -1434,8 +1434,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.7074679-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.7074679Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:35.0006501-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:35.0006501Z</DT>
           <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
           <Nil N="LinkTarget" />
@@ -1460,10 +1460,10 @@
       <S N="Extension">.ps1</S>
       <DT N="CreationTime">2024-01-11T13:59:51.9498288-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T18:59:51.9498288Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:57.8293608-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:57.8293608Z</DT>
-      <DT N="LastWriteTime">2024-01-18T14:16:57.8293608-05:00</DT>
-      <DT N="LastWriteTimeUtc">2024-01-18T19:16:57.8293608Z</DT>
+      <DT N="LastAccessTime">2024-01-23T10:04:34.3004862-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.3004862Z</DT>
+      <DT N="LastWriteTime">2024-01-23T10:04:34.3004862-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-23T15:04:34.3004862Z</DT>
       <Nil N="LinkTarget" />
       <Obj N="UnixFileMode" RefId="66">
         <TNRef RefId="1" />
@@ -1527,8 +1527,8 @@
       <Nil N="Target" />
       <Nil N="LinkType" />
       <S N="NameString">_x001B_[33;1mget-filesbydatetryagain.ps1_x001B_[0m</S>
-      <S N="LengthString">1753</S>
-      <S N="LastWriteTimeString"> 1/18/2024  2:16 PM</S>
+      <S N="LengthString">2341</S>
+      <S N="LastWriteTimeString"> 1/23/2024 10:04 AM</S>
     </MS>
   </Obj>
   <Obj RefId="69">
@@ -1536,7 +1536,7 @@
     <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5\output.xml</ToString>
     <Props>
       <S N="Name">output.xml</S>
-      <I64 N="Length">122854</I64>
+      <I64 N="Length">122856</I64>
       <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Cas Powershell Homework\Session 5</S>
       <Obj N="Directory" RefId="70">
         <TNRef RefId="0" />
@@ -1550,8 +1550,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.7114798-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.7114798Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:35.0026538-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:35.0026538Z</DT>
           <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
           <Nil N="LinkTarget" />
@@ -1576,10 +1576,10 @@
       <S N="Extension">.xml</S>
       <DT N="CreationTime">2024-01-11T14:34:59.0489981-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T19:34:59.0489981Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:44.5473011-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:44.5473011Z</DT>
-      <DT N="LastWriteTime">2024-01-18T14:16:44.5473011-05:00</DT>
-      <DT N="LastWriteTimeUtc">2024-01-18T19:16:44.5473011Z</DT>
+      <DT N="LastAccessTime">2024-01-23T10:03:53.6832363-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T15:03:53.6832363Z</DT>
+      <DT N="LastWriteTime">2024-01-23T10:03:53.6832363-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-23T15:03:53.6832363Z</DT>
       <Nil N="LinkTarget" />
       <Obj N="UnixFileMode" RefId="71">
         <TNRef RefId="1" />
@@ -1643,8 +1643,8 @@
       <Nil N="Target" />
       <Nil N="LinkType" />
       <S N="NameString">output.xml</S>
-      <S N="LengthString">122854</S>
-      <S N="LastWriteTimeString"> 1/18/2024  2:16 PM</S>
+      <S N="LengthString">122856</S>
+      <S N="LastWriteTimeString"> 1/23/2024 10:03 AM</S>
     </MS>
   </Obj>
   <Obj RefId="74">
@@ -1666,8 +1666,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.7144784-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.7144784Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:35.0046533-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:35.0046533Z</DT>
           <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
           <Nil N="LinkTarget" />
@@ -1692,8 +1692,8 @@
       <S N="Extension">.ps1</S>
       <DT N="CreationTime">2024-01-11T13:59:51.9702152-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T18:59:51.9702152Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:08:22.696216-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:08:22.696216Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:51:26.9748675-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:51:26.9748675Z</DT>
       <DT N="LastWriteTime">2024-01-11T14:00:02.3998926-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T19:00:02.3998926Z</DT>
       <Nil N="LinkTarget" />
@@ -1782,8 +1782,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.7164959-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.7164959Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:35.005653-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:35.005653Z</DT>
           <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
           <Nil N="LinkTarget" />
@@ -1808,8 +1808,8 @@
       <S N="Extension">.ps1</S>
       <DT N="CreationTime">2024-01-11T13:59:51.9887192-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T18:59:51.9887192Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:08:22.7323772-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:08:22.7323772Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:51:27.052201-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:51:27.052201Z</DT>
       <DT N="LastWriteTime">2024-01-11T13:59:51.9897032-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9897032Z</DT>
       <Nil N="LinkTarget" />
@@ -1898,8 +1898,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-11T13:59:51.9091193-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-11T18:59:51.9091193Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.7200173-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.7200173Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:35.0076524-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:35.0076524Z</DT>
           <DT N="LastWriteTime">2024-01-17T11:03:04.3428443-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-17T16:03:04.3428443Z</DT>
           <Nil N="LinkTarget" />
@@ -1924,8 +1924,8 @@
       <S N="Extension">.pptx</S>
       <DT N="CreationTime">2024-01-11T13:59:51.9307343-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T18:59:51.9307343Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:44.4375081-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:44.4375081Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:56:13.1921984-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:56:13.1921984Z</DT>
       <DT N="LastWriteTime">2024-01-11T13:59:51.9307343-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T18:59:51.9307343Z</DT>
       <Nil N="LinkTarget" />
@@ -2012,8 +2012,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:58:08.4711604-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:58:08.4711604Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6124979-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6124979Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9424659-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9424659Z</DT>
           <DT N="LastWriteTime">2023-12-26T11:53:10.8560069-05:00</DT>
           <DT N="LastWriteTimeUtc">2023-12-26T16:53:10.8560069Z</DT>
           <Nil N="LinkTarget" />
@@ -2044,10 +2044,10 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2019-12-07T04:03:44.4609777-05:00</DT>
           <DT N="CreationTimeUtc">2019-12-07T09:03:44.4609777Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6029338-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6029338Z</DT>
-          <DT N="LastWriteTime">2024-01-18T13:50:48.9104067-05:00</DT>
-          <DT N="LastWriteTimeUtc">2024-01-18T18:50:48.9104067Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9336376-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9336376Z</DT>
+          <DT N="LastWriteTime">2024-01-23T09:49:08.9107847-05:00</DT>
+          <DT N="LastWriteTimeUtc">2024-01-23T14:49:08.9107847Z</DT>
           <Nil N="LinkTarget" />
           <S N="UnixFileMode">-1</S>
           <S N="Attributes">Hidden, System, Directory</S>
@@ -2059,7 +2059,7 @@
           <Nil N="Target" />
           <Nil N="LinkType" />
           <S N="LengthString"></S>
-          <S N="LastWriteTimeString"> 1/18/2024  1:50 PM</S>
+          <S N="LastWriteTimeString"> 1/23/2024  9:49 AM</S>
         </MS>
       </Obj>
       <B N="Exists">true</B>
@@ -2067,8 +2067,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2023-12-26T11:53:06.1177743-05:00</DT>
       <DT N="CreationTimeUtc">2023-12-26T16:53:06.1177743Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:07:30.9841943-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:07:30.9841943Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:50:57.5717305-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:50:57.5717305Z</DT>
       <DT N="LastWriteTime">2024-01-11T13:59:52.0029424-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
       <Nil N="LinkTarget" />
@@ -2120,8 +2120,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T11:53:06.1177743-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T16:53:06.1177743Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6124979-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6124979Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9424659-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9424659Z</DT>
           <DT N="LastWriteTime">2024-01-11T13:59:52.0029424-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
           <Nil N="LinkTarget" />
@@ -2146,8 +2146,8 @@
       <S N="Extension"></S>
       <DT N="CreationTime">2024-01-11T13:59:52.0029424-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:44.4594326-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:44.4594326Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:56:13.2242841-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:56:13.2242841Z</DT>
       <DT N="LastWriteTime">2024-01-11T13:59:52.0029424-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-11T18:59:52.0029424Z</DT>
       <Nil N="LinkTarget" />
@@ -2236,8 +2236,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2023-12-26T10:55:43.0262466-05:00</DT>
           <DT N="CreationTimeUtc">2023-12-26T15:55:43.0262466Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.6134928-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.6134928Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9424659-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9424659Z</DT>
           <DT N="LastWriteTime">2024-01-01T18:48:39.7116171-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-01T23:48:39.7116171Z</DT>
           <Nil N="LinkTarget" />
@@ -2262,8 +2262,8 @@
       <S N="Extension">.py</S>
       <DT N="CreationTime">2024-01-01T18:48:39.5544524-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-01T23:48:39.5544524Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:44.4834408-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:44.4834408Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:56:13.2528408-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:56:13.2528408Z</DT>
       <DT N="LastWriteTime">2024-01-01T18:48:39.7338989-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-01T23:48:39.7338989Z</DT>
       <Nil N="LinkTarget" />
@@ -2338,7 +2338,7 @@
     <ToString>C:\Users\tettejoh\Documents\GitHub\Johns-Education\Snow Automation\5daysla.ps1</ToString>
     <Props>
       <S N="Name">5daysla.ps1</S>
-      <I64 N="Length">315</I64>
+      <I64 N="Length">317</I64>
       <S N="DirectoryName">C:\Users\tettejoh\Documents\GitHub\Johns-Education\Snow Automation</S>
       <Obj N="Directory" RefId="105">
         <TNRef RefId="0" />
@@ -2352,8 +2352,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-18T09:27:53.5721016-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.614483-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.614483Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:34.9434644-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:34.9434644Z</DT>
           <DT N="LastWriteTime">2024-01-18T10:01:48.1486011-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-18T15:01:48.1486011Z</DT>
           <Nil N="LinkTarget" />
@@ -2378,10 +2378,10 @@
       <S N="Extension">.ps1</S>
       <DT N="CreationTime">2024-01-18T09:28:03.385137-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-18T14:28:03.385137Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:42.8663218-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:42.8663218Z</DT>
-      <DT N="LastWriteTime">2024-01-18T14:16:42.8663218-05:00</DT>
-      <DT N="LastWriteTimeUtc">2024-01-18T19:16:42.8663218Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:56:11.5486879-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:56:11.5486879Z</DT>
+      <DT N="LastWriteTime">2024-01-23T09:56:11.5486879-05:00</DT>
+      <DT N="LastWriteTimeUtc">2024-01-23T14:56:11.5486879Z</DT>
       <Nil N="LinkTarget" />
       <Obj N="UnixFileMode" RefId="106">
         <TNRef RefId="1" />
@@ -2445,8 +2445,8 @@
       <Nil N="Target" />
       <Nil N="LinkType" />
       <S N="NameString">_x001B_[33;1m5daysla.ps1_x001B_[0m</S>
-      <S N="LengthString">315</S>
-      <S N="LastWriteTimeString"> 1/18/2024  2:16 PM</S>
+      <S N="LengthString">317</S>
+      <S N="LastWriteTimeString"> 1/23/2024  9:56 AM</S>
     </MS>
   </Obj>
   <Obj RefId="109">
@@ -2468,8 +2468,8 @@
           <S N="Extension"></S>
           <DT N="CreationTime">2024-01-18T09:27:53.5721016-05:00</DT>
           <DT N="CreationTimeUtc">2024-01-18T14:27:53.5721016Z</DT>
-          <DT N="LastAccessTime">2024-01-18T14:16:59.7378435-05:00</DT>
-          <DT N="LastAccessTimeUtc">2024-01-18T19:16:59.7378435Z</DT>
+          <DT N="LastAccessTime">2024-01-23T10:04:35.0314876-05:00</DT>
+          <DT N="LastAccessTimeUtc">2024-01-23T15:04:35.0314876Z</DT>
           <DT N="LastWriteTime">2024-01-18T10:01:48.1486011-05:00</DT>
           <DT N="LastWriteTimeUtc">2024-01-18T15:01:48.1486011Z</DT>
           <Nil N="LinkTarget" />
@@ -2494,8 +2494,8 @@
       <S N="Extension">.ps1</S>
       <DT N="CreationTime">2024-01-18T10:01:48.1486011-05:00</DT>
       <DT N="CreationTimeUtc">2024-01-18T15:01:48.1486011Z</DT>
-      <DT N="LastAccessTime">2024-01-18T14:16:42.8663218-05:00</DT>
-      <DT N="LastAccessTimeUtc">2024-01-18T19:16:42.8663218Z</DT>
+      <DT N="LastAccessTime">2024-01-23T09:51:27.0733125-05:00</DT>
+      <DT N="LastAccessTimeUtc">2024-01-23T14:51:27.0733125Z</DT>
       <DT N="LastWriteTime">2024-01-18T14:16:42.8663218-05:00</DT>
       <DT N="LastWriteTimeUtc">2024-01-18T19:16:42.8663218Z</DT>
       <Nil N="LinkTarget" />
