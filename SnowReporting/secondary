@@ -1,0 +1,25 @@
+# Set your ServiceNow instance URL, username, and password
+$instanceUrl = "https://roomstogo.service-now.com"
+$username = "jtetterton@roomstogo.com"
+$password = "Jt2019!02"
+
+# Convert the password to a secure string
+$securePassword = ConvertTo-SecureString $password -AsPlainText -Force
+
+# Create a credential object
+$credential = New-Object System.Management.Automation.PSCredential($username, $securePassword)
+
+# Set the assignment group name and calculate the date 5 days ago
+$assignmentGroup = "(SN) Tech Ops SE Stores)"
+$updatedDate = (Get-Date).AddDays(-5).ToString("yyyy-MM-dd")
+
+# Construct the API query
+$queryParams = @{
+    "sysparm_query" = "assignment_group=$assignmentGroup^sys_updated_on<=$updatedDate";
+}
+
+# Make the API request to retrieve incidents
+$incidents = Get-ServiceNowRecord -Credential $credential -Table incident -QueryParams $queryParams
+
+# Output the results
+$incidents.result | Format-Table -Property number, sys_updated_on, assignment_group, short_description -AutoSize
