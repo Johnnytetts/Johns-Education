@@ -7,7 +7,7 @@ function get-cpuusage {
 
    #This function is used to check the percentage of available RAM. Alter reporting time by editing the $threshold value.
 function get-ramusage {
-    $totalram = get-ciminstance -classname cim_computersystem | select-sbject -expandproperty totalphysicalmemory
+    $totalram = get-ciminstance -classname cim_computersystem | select-object -expandproperty totalphysicalmemory
     $totalrammb = $totalram / 1MB
     $availableram = get-counter '\memory\available mbytes'
     $availablerammb = $availableram.countersamples[0].cookedvalue
