@@ -37,6 +37,13 @@ function get-uptime {
         return $uptime
 }
 
+#This function is used to show the current pagefile usage.
+function get-pagefileusage {
+    $pagefile = get-counter '\paging file(_total)\% usage'
+    $pagefile = $pagefile.countersamples[0].cookedvalue
+        return $pagefile
+}
+
 #Where the magic happens. This is the main loop that runs the functions and compares them to the thresholds.
 while ($true) {
     $cpupwr = get-cpuusage
@@ -58,7 +65,7 @@ while ($true) {
 
     $disksused = get-diskusage
         foreach ($diskusage in $disksused) {
-            $thresholddisk = 10
+            $thresholddisk = 10 #This is also a whole number percentage, 10 = 10%. Edit this value to change the threshold.
                 if ($diskusage.usage -gt $thresholddisk) {
                     write-host "Disk $($diskusage.drive) usage is above current threshold of $thresholddisk %" 
                 }
@@ -69,5 +76,10 @@ while ($true) {
     $uptime = get-uptime
     write-host "Device has been up for $($uptime.days) days, $($uptime.hours) hours, and $($uptime.minutes) minutes"
     
+    #start-sleep -seconds 60
+
+    $pagefile = get-pagefileusage
+    write-host "Pagefile usage is at $pagefile %"
+
     start-sleep -seconds 60
 }
