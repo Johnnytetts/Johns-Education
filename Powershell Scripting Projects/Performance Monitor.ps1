@@ -17,10 +17,18 @@ function get-ramusage {
 
 #This function is used to check the percentage of used disk space.
 function get-diskusage {
-    $diskpwr = get-ciminstance -classname win32_logicaldisk -filter "deviceid='c:'"
-    $diskuse = $diskpwr.size - $diskpwr.freespace
-    $diskused = ($diskuse /$diskpwr.size) * 100
-        return $diskused
+    $drives = get-ciminstance -classname win32_logicaldisk
+    $results = @()
+        foreach ($drive in $drives) {
+            $diskuse = $drive.size - $drive.FreeSpace
+            $diskused = ($diskuse / $drive.size) * 100
+            $results += [pscustomobject]@{
+                drive = $drive.DeviceID
+                usage = $diskused
+            }
+        }
+        
+        return $results
 }
 
 #This function is used to show the current uptime of the system.
@@ -48,10 +56,12 @@ while ($true) {
 
     #start-sleep -seconds 60    
 
-    $diskpwr = get-diskusage
-    $thresholddisk = 50 #This uses whole numbers and not a decimal like ram, so 50 = 50% not 0.5 = 50%
-        if ($diskpwr -gt $thresholddisk) {
-            write-host "Disk usage is above current threshold of $thresholddisk %" 
+    $disksused = get-diskusage
+        foreach ($diskusage in $disksused) {
+            $thresholddisk = 10
+                if ($diskusage.usage -gt $thresholddisk) {
+                    write-host "Disk $($diskusage.drive) usage is above current threshold of $thresholddisk %" 
+                }
         }
 
     #start-sleep -seconds 60
